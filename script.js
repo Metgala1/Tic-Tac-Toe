@@ -1,4 +1,4 @@
-// Gameboard Module (IIFE)
+
 const Gameboard = (() => {
     const board = ["", "", "", "", "", "", "", "", ""];
 
